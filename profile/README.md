@@ -16,10 +16,10 @@ We're passionate about empowering individuals to master the art of coding and ho
 
 ## What You'll Find Here 🗺️
 
-### Training Modules 📐
+### Training Modules
 Our GitHub repository hosts a wide array of training modules that cover everything from simple package manager exercises to advanced private registry resolutions. We believe in hands-on learning. Immerse yourself in real-world projects, from open source remediation to reachability prioritization, and apply the skills you learn as you go.
 
-### Support Team Productivity Hacks 🧠
+### Support Team Productivity Hacks
 You'll find practical samples and scripts that will help you automate repetitive tasks, streamline processes, and enhance your technical problem-solving abilities.
 
 ## Training Team Commitment ⭐
