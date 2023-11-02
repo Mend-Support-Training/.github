@@ -44,29 +44,23 @@ No problem! We offer multiple resources to learn more about our products. Here a
 - [Mend.io Official Documentation](https://docs.mend.io/)
 - [Mend.io Field Engineering Toolkit](https://github.com/mend-toolkit)
 
-<style>
-  small-icon {
-    width: 20px;
-    height: 20px;
-  }
-</style>
 <p align="center">
  Mend.io Socials
  <br>
  <a href="https://linkedin.com/company/mend-io">
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="LinkedIn"  class="small-icon">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="LinkedIn" style="width: 20px; height: 20px;">
  </a>
  <a href="https://www.facebook.com/mendappsec">
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="Facebook"  class="small-icon">
+  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="Facebook"  style="width: 20px; height: 20px;">
  </a>
   <a href="https://www.instagram.com/mend_io_">
-   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="Instagram"  class="small-icon">
+   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="Instagram"  style="width: 20px; height: 20px;">
  </a>
   <a href="https://www.twitter.com/mend_io">
-   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt="Twitter"  class="small-icon">
+   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt="Twitter"  style="width: 20px; height: 20px;">
   </a>
   <a href="https://www.youtube.com/c/Mend_io">
-   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" alt="YouTube"  class="small-icon">
+   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" alt="YouTube"  style="width: 20px; height: 20px;">
   </a>
  </p>
  
