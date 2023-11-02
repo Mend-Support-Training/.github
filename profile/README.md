@@ -31,7 +31,7 @@ The internal technical training team at Mend is committed to your growth and suc
  
 <p align="center">
  So, what are you waiting for?
- <img src="![image](https://github.com/Mend-Support-Training/.github/assets/90346290/382082e2-7e09-4b0a-a84c-344f9bcd0aad)" alt="Mend Logo">
+ <img src="https://github.com/Mend-Support-Training/.github/assets/90346290/382082e2-7e09-4b0a-a84c-344f9bcd0aad" alt="Mend Logo">
  Let's go **_Menders_**!
 </p>
 
