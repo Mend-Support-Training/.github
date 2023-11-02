@@ -1,4 +1,4 @@
-# Welcome to the Mend Technical Support Training Organization! 🚀
+# Welcome to the Mend.io Technical Support Training Organization! 🚀
 
 <p align="center">
  <em>Please note that this is an internal Mend organization designated 
@@ -13,15 +13,15 @@
 - [Training Team Commitment](#training-team-commitment-)
 
 ## Introduction 👋
-We're excited to have you on board as a technical support engineer and are thrilled to embark on this learning journey with you. Whether you're a seasoned tech enthusiast or just starting to dip your toes into the world of technical support, you've come to the right place.
+We welcome you on board as a technical support engineer and are thrilled to embark on this learning journey with you. Whether you're a seasoned customer service enthusiast or just starting to dip your toes into the world of technical support, you've come to the right place.
 
 ## What We're All About 🏆
-We're passionate about empowering individuals to master the art of coding and hone their development skills. Our organization is dedicated to providing an enriching training program for our onboarding technical support engineers.
+We're passionate about empowering individuals to master the art of support and hone their troubleshooting skills. Mend.io is dedicated to providing an enriching training program for our onboarding technical support engineers.
 
 ## What You'll Find Here 🗺️
 
 ### Training Modules
-Our GitHub repository hosts a wide array of training modules that cover everything from simple package manager exercises to advanced private registry resolutions. We believe in hands-on learning. Immerse yourself in real-world projects, from open source remediation to reachability prioritization, and apply the skills you learn as you go.
+Our GitHub repositories host a wide array of training modules that cover everything from simple package manager exercises to advanced private registry resolutions. We believe in hands-on learning. Immerse yourself in real-world projects, from open source remediation to reachability prioritization, and apply the skills you learn as you go.
 
 ### Support Team Productivity Hacks
 You'll find practical samples and scripts that will help you automate repetitive tasks, streamline processes, and enhance your technical problem-solving abilities.
