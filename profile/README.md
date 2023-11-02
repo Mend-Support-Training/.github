@@ -3,10 +3,10 @@
 _Please note that this is an internal Mend organization designated to help train onboarding technical support engineers at Mend._
 
 ## README Table of Contents 📑
-- [Introduction](#introduction)
-- [What We're All About](#what-we're-all-about)
-- [What You'll Find Here](#what-you'll-find-here)
-- [Training Team Commitment](#training-team-commitment)
+- [Introduction](#introduction-)
+- [What We're All About](#what-were-all-about-)
+- [What You'll Find Here](#what-youll-find-here-%EF%B8%8F)
+- [Training Team Commitment](#training-team-commitment-)
 
 ## Introduction 👋
 We're excited to have you on board as a technical support engineer and are thrilled to embark on this learning journey with you. Whether you're a seasoned tech enthusiast or just starting to dip your toes into the world of technical support, you've come to the right place.
