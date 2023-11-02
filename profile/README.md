@@ -1,12 +1,33 @@
-## Hi there 👋
+# Welcome to the Mend Technical Support Training Organization! ![image](https://github.com/Mend-Support-Training/.github/assets/90346290/9bb93f61-9870-4f02-b360-8e1fa221516d)
 
-<!--
+## README Table of Contents
+- [Introduction](#introduction)
+- [What We're All About](#what-we're-all-about)
+- [What You'll Find Here](#what-you'll-find-here)
+- [Training Team Commitment](#training-team-commitment)
 
-**Here are some ideas to get you started:**
+## Introduction
+_Please note that this is an internal Mend organization designated to help train onboarding technical support engineers._
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We're excited to have you on board as a technical support engineer and are thrilled to embark on this learning journey with you. Whether you're a seasoned tech enthusiast or just starting to dip your toes into the world of technical support, you've come to the right place.
+
+## What We're All About
+
+We're passionate about empowering individuals to master the art of coding and hone their development skills. Our organization is dedicated to providing an enriching training program for our onboarding technical support engineers.
+
+## What You'll Find Here
+
+### Training Modules
+
+Our GitHub repository hosts a wide array of training modules that cover everything from simple package manager exercises to advanced private registry resolutions. We believe in hands-on learning. Immerse yourself in real-world projects, from open source remediation to reachability prioritization, and apply the skills you learn as you go.
+
+### Support Team Productivity Hacks
+
+You'll find practical samples and scripts that will help you automate repetitive tasks, streamline processes, and enhance your technical problem-solving abilities.
+
+
+
+## Training Team Commitment
+The internal technical training team at Mend is committed to your growth and success. Our team of experienced mentors and trainers is here to support you every step of the way. Together, our goal is to make your onboarding  experience both as educational and enjoyable as it can be!
+ 
+So, what are you waiting for? Let's go **_Menders_**! 🚀
