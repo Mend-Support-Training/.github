@@ -1,7 +1,7 @@
 # Welcome to the Mend Technical Support Training Organization! 🚀
 
 <p align="center">
-_Please note that this is an internal Mend organization designated to help train onboarding technical support engineers at Mend._
+ <em>Please note that this is an internal Mend organization designated to help train onboarding technical support engineers at Mend.</em>
 </p>
 
 ## README Table of Contents 📑
