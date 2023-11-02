@@ -47,20 +47,10 @@ No problem! We offer multiple resources to learn more about our products. Here a
 <p align="center">
  Mend.io Socials
  <br>
- <a href="https://linkedin.com/company/mend-io">
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="LinkedIn" style="width: 20px; height: 20px;">
- </a>
- <a href="https://www.facebook.com/mendappsec">
-  <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="Facebook"  style="width: 20px; height: 20px;">
- </a>
-  <a href="https://www.instagram.com/mend_io_">
-   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="Instagram"  style="width: 20px; height: 20px;">
- </a>
-  <a href="https://www.twitter.com/mend_io">
-   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt="Twitter"  style="width: 20px; height: 20px;">
-  </a>
-  <a href="https://www.youtube.com/c/Mend_io">
-   <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" alt="YouTube"  style="width: 20px; height: 20px;">
-  </a>
- </p>
+ <a href="https://linkedin.com/company/mend-io"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="LinkedIn" style="width: 20px; height: 20px;"></a>
+ <a href="https://www.facebook.com/mendappsec"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="Facebook"  style="width: 20px; height: 20px;"></a>
+ <a href="https://www.instagram.com/mend_io_"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png" alt="Instagram"  style="width: 20px; height: 20px;"></a>
+ <a href="https://www.twitter.com/mend_io"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png" alt="Twitter"  style="width: 20px; height: 20px;"></a>
+ <a href="https://www.youtube.com/c/Mend_io"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" alt="YouTube"  style="width: 20px; height: 20px;"></a>
+</p>
  
