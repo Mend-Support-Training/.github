@@ -45,7 +45,7 @@ No problem! We offer multiple resources to learn more about our products. Here a
 - [Mend.io Field Engineering Toolkit](https://github.com/mend-toolkit)
 
 <style>
-  .small-icon {
+  small-icon {
     width: 20px;
     height: 20px;
   }
