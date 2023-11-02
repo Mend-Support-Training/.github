@@ -1,9 +1,9 @@
 # Welcome to the Mend.io Technical Support Training Organization! 🚀
 
 <p align="center">
- <em>Please note that this is an internal Mend organization designated 
+ <em>Please note that this is an internal organization designated 
   <br>
-  to help train onboarding technical support engineers at Mend.</em>
+  to help train onboarding technical support engineers at Mend.io.</em>
 </p>
 
 ## README Table of Contents 📑
@@ -11,6 +11,7 @@
 - [What We're All About](#what-were-all-about-)
 - [What You'll Find Here](#what-youll-find-here-%EF%B8%8F)
 - [Training Team Commitment](#training-team-commitment-)
+- [Not a Mend.io Technical Support Engineer?](#not-a-mend.io-technical-support-engineer-?)
 
 ## Introduction 👋
 We welcome you on board as a technical support engineer and are thrilled to embark on this learning journey with you. Whether you're a seasoned customer service enthusiast or just starting to dip your toes into the world of technical support, you've come to the right place.
@@ -37,3 +38,18 @@ The internal technical training team at Mend is committed to your growth and suc
  Let's go Menders!
 </p>
 
+## Not a Mend.io Technical Support Engineer?
+No problem! We offer multiple resources to learn more about our products. Here are some links below to get started:
+- [Mend.io Official Website](https://www.mend.io/)
+- [Mend.io Official Documentation](https://docs.mend.io/)
+- [Mend.io Field Engineering Toolkit](https://github.com/mend-toolkit)
+<p align="center">
+ Mend.io Socials
+ <br>
+ [<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png">](https://linkedin.com/company/mend-io)
+ [<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png">](https://www.facebook.com/mendappsec)
+ [<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Instagram.png">](https://www.instagram.com/mend_io_)
+ [<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Twitter.png">](https://www.twitter.com/mend_io)
+ [<img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png">](https://www.youtube.com/c/Mend_io)
+ </p>
+ 
