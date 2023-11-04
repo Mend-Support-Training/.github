@@ -1,4 +1,4 @@
-# Welcome to the Mend.io Technical Support Training Organization! 🚀
+# Welcome to the Mend.io Technical Support Team Training! 🚀
 
 <p align="center">
  <em>Please note that this is an internal organization designated 
