@@ -31,8 +31,6 @@ You'll find practical samples and scripts that will help you automate repetitive
 The internal technical training team at Mend is committed to your growth and success. Our team of experienced mentors and trainers is here to support you every step of the way. Together, our goal is to make your onboarding  experience both as educational and enjoyable as it can be!
  
 <p align="center">
- So, what are you waiting for?
- <br>
  <img src="https://github.com/Mend-Support-Training/.github/assets/90346290/382082e2-7e09-4b0a-a84c-344f9bcd0aad" alt="Mend Logo">
  <br>
  Let's go Menders!
